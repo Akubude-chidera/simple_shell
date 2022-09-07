@@ -1,5 +1,5 @@
-#ifndef _shell_
-#define _shell_
+#ifndef _SHELL_H_
+#define _SHELL_H_
 
 #include <stdio.h>
 #include <unistd.h>
